@@ -1,0 +1,1 @@
+# “This project is a simple and responsive Application Form created using pure HTML and CSS. It includes well-structured form fields, proper input validation layout, and a modern design to improve user experience. The project focuses on form alignment, spacing, and mobile-friendly responsiveness.”
